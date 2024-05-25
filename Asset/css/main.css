@@ -1,0 +1,17 @@
+.section-1{
+       background-color: rgb(84, 120, 250);
+}
+.section-1-heading{
+    font-size: 4rem;
+}
+/* font-family: "Roboto", sans-serif; */
+/* font-family: "Freeman", sans-serif; */
+h1,h2,h3,h4,h5,h6{
+    font-family: "Freeman", sans-serif; 
+}
+p{
+ font-family: "Roboto", sans-serif;
+}
+.bg-colour{
+    background-color: aqua;
+}
