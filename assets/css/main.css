@@ -1,0 +1,22 @@
+.section-1{
+    background-color: #03AED2;
+}
+
+.section-1-heading{
+    font-size: 4rem;
+}
+
+/* font-family: "Roboto", sans-serif; */
+/* font-family: "Noto Sans", sans-serif; */
+
+h1,h2,h3,h4,h5,h6{
+    font-family: "Noto Sans", sans-serif;
+}
+
+p{
+    font-family: "Roboto", sans-serif;
+}
+
+.reg-background{
+    background-image: linear-gradient(180deg,#74baff,#0084ff);
+}
